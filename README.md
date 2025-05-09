@@ -3,6 +3,15 @@
 
 Here you will find all the content you need to get a taste of Creative Computing at Salford!
 
+<h2>Agenda</h2>
+1. What is Creative Computing and where does it lead in terms of employment? (10:30-10:45)
+2. Let's hear from a current student about the course (10:45-11:15)
+3. Looking at the course structure (11:15-11:30)
+4. A taste of creative coding - activity (11:30-12:00)
+5. Questions and chat (12 to finish)
+
+<h2>A taste of creative coding</h2>
+
 Here’s what to do:
 1)	Download the zip file called <strong>p5demo</strong> on Github to the Downloads folder on your computer
 2)	Unzip (extract) the zip file to the Downloads folder (this location is important!)
