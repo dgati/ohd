@@ -26,7 +26,7 @@ c.	 folder called <strong>ex2-image-layers</strong>---contains code and data for
 
 Important! Make sure you work from the <strong>p5demo</strong> folder in Downloads, and <strong>not from inside the zip file</strong>!
 
-OR: you can join the Live Share session here: <a href=https://prod.liveshare.vsengsaas.visualstudio.com/join?2402F66C7849A733032F07026BDD1FCC5C75> [here](https://prod.liveshare.vsengsaas.visualstudio.com/join?2402F66C7849A733032F07026BDD1FCC5C75)</a>.
+OR: you can join the Live Share session here: <a href=https://prod.liveshare.vsengsaas.visualstudio.com/join?D12C95CD0BCDD40EB40F2B44B4D40C079C95> https://prod.liveshare.vsengsaas.visualstudio.com/join?D12C95CD0BCDD40EB40F2B44B4D40C079C95</a>.
 
 
 
