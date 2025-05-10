@@ -28,7 +28,7 @@ Important! Make sure you work from the <strong>p5demo</strong> folder in Downloa
 
 OR: you can join the Live Share session here: <a href=https://prod.liveshare.vsengsaas.visualstudio.com/join?2402F66C7849A733032F07026BDD1FCC5C75> [here](https://prod.liveshare.vsengsaas.visualstudio.com/join?2402F66C7849A733032F07026BDD1FCC5C75)</a>.
 
-Spelled out: https://prod.liveshare.vsengsaas.visualstudio.com/join?2402F66C7849A733032F07026BDD1FCC5C75
+
 
 
 
